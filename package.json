@@ -1,0 +1,20 @@
+{
+  "name": "node-screen",
+  "description": "",
+  "keywords": "",
+  "version": "0.0.1",
+  "author": "Tobias Schneider <schneider@jancona.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobeytailor/node-screen"
+  },
+  "main": "./node-screen.js",
+  "engines": { "node": "0.5 || 0.6" },
+  "scripts": { "install": "node-waf configure build" },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/tobeytailor/node-screen/raw/master/LICENSE-MIT"
+    }
+  ]
+}

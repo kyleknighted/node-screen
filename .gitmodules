@@ -1,0 +1,6 @@
+[submodule "deps/libvncserver"]
+	path = deps/libvncserver
+	url = https://github.com/kanaka/libvncserver.git
+[submodule "deps/noVNC"]
+	path = deps/noVNC
+	url = https://github.com/kanaka/noVNC.git

@@ -1,0 +1,4 @@
+.DS_STORE
+.lock-wscript
+Makefile
+build/
